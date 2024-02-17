@@ -6,4 +6,8 @@ public class GitRevert {
         System.out.println("Git Revert lesson!");
 
     }
+
+    public static void sayHi(){
+        System.out.println("Say Hi! :)");
+    }
 }
